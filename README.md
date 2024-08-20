@@ -21,4 +21,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AXELQUANTT&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## Github Stats
-<img src="https://myreadme.vercel.app/api/embed/AXELQUANT?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/AXELQUANTT?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
