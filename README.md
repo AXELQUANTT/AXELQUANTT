@@ -23,4 +23,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AXELQUANTT&theme=tokyonight" alt="mystreak"/>
 
 ## Profile Views
-<img src="https://komarev.com/ghpvc/?username=AXELQUANTT&color=brightgreen" alt="watching_count"
+<img src="https://komarev.com/ghpvc/?username=AXELQUANTT&color=brightgreen" alt="watching_count" />
