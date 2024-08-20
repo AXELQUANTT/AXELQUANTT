@@ -15,3 +15,10 @@
 - Reinforcement Learning: Solving Cartpole-v0 environment with custom DDQN agent (https://github.com/AXELQUANTT/Generic/tree/main/ML_AI/Projects/Cartpole)  
 - Reinforcement Learning: How to build a custom gym environment for optimal trade execution  (https://github.com/AXELQUANTT/Generic/blob/main/ML_AI/Algos/ReinforcementLearning/environments.py)
 - (wip) Python/Reinforcement Learning: Building an optimal trade execution agent  (https://github.com/AXELQUANTT/Generic/tree/main/AlgoTrading/TradeExecution)
+
+
+## Programming Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AXELQUANT&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+## Github Stats
+<img src="https://myreadme.vercel.app/api/embed/AXELQUANT?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
