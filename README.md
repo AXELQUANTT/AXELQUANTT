@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![github-header-image](https://github.com/user-attachments/assets/f1fb7a49-337f-48d5-a84e-2aec88f98062)
+![github-header-image](https://github.com/user-attachments/assets/c909ab34-9db7-40b7-945f-b9b21dff4495)
 
 🌱 I’m currently interested in ML/Deep Learning and their applications in the Quant Finance domain.
 
