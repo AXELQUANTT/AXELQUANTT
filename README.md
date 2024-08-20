@@ -20,6 +20,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AXELQUANTT&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AXELQUANTT&theme=tokyonight" alt="mystreak"/>
-<img src="https://komarev.com/ghpvc/?username=AXELQUANTT&color=brightgreen" alt="watching_count" />
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=AXELQUANTT&countColorcountColor&countColor=%237B1E7B"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AXELQUANTT&theme=tokyonight" alt="mystreak"/>  
+<img src="https://komarev.com/ghpvc/?username=AXELQUANTT&color=brightgreen" alt="watching_count" />  
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=AXELQUANTT&countColorcountColor&countColor=%237B1E7B"/>  
