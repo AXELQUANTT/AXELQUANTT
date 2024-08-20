@@ -7,7 +7,7 @@
 
 🎓 Bachelor of Physics, minor in Applied Physics @ Universitat de Barcelona. Postgraduate on Quantitative Finance @ Universitat Politècnica de Catalunya  
 
-🌱 Passionate about Machine Learning, Deep Learning and its intersection with Quant Finance  
+🌱 Passionate about Machine Learning, Deep Learning and Quant Finance  
 
 💰 Currently building a Reinforcement Learning agent for optimal trade execution of BitCoin futures  
 
