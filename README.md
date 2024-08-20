@@ -5,4 +5,7 @@
 
 🎓 Physicist by formation, Postgraduate on Quantitative Finance  
 🌱 Passionate about Machine Learning, Deep Learning and its intersection with Quant Finance  
-🏠 Amsterdam, Netherlands
+
+## Projects
+- Image classification of MNIST dataset https://github.com/AXELQUANTT/Generic/tree/main/ML_AI/Projects/MNIST_digits_recognizer  
+- 
