@@ -2,10 +2,15 @@
 
 # Hi there 👋! I am Axel, welcome to my repo! 🚀
 ## About me
+
 📈 Quantitative Trading Developer (Quant)  
+
 🎓 Bachelor of Physics, minor in Applied Physics @ Universitat de Barcelona. Postgraduate on Quantitative Finance @ Universitat Politècnica de Catalunya  
+
 🌱 Passionate about Machine Learning, Deep Learning and its intersection with Quant Finance  
-💰 Currently building a Reinforcement Learning agent for optimal trade execution of BitCoin futures 
+
+💰 Currently building a Reinforcement Learning agent for optimal trade execution of BitCoin futures  
+
 🏋️‍♂️ Ex-Rugby player, fitness enthusiast  
 
 
