@@ -2,7 +2,7 @@
 
 # Hi there 👋! I am Axel, welcome to my repo! 🚀
 ## 📈 Quantitative Trading Developer (Quant)
-🎓 Physicist by formation, Postgraduate on Quantitative Finance  
+🎓 Bachelor of Physics, minor in Applied Physics @UB. Postgraduate on Quantitative Finance @https://github.com/UPC  
 🌱 Passionate about Machine Learning, Deep Learning and its intersection with Quant Finance  
 🏋️‍♂️ Ex-Rugby player, Crossfitter  
 
