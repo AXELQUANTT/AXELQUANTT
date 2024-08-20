@@ -8,6 +8,7 @@
 💰 Currently building a Reinforcement Learning agent for optimal trade execution of BitCoin futures 
 🏋️‍♂️ Ex-Rugby player, fitness enthusiast  
 
+
 ## Projects
 - Python/Supervised Learning: Image classification of MNIST dataset https://github.com/AXELQUANTT/Generic/tree/main/ML_AI/Projects/MNIST_digits_recognizer  
 - Python/Reinforcement Learning: How to build a custom DDQN agent  
