@@ -5,9 +5,4 @@
 
 🎓 Physicist by formation, Postgraduate on Quantitative Finance  
 🌱 Passionate about Machine Learning, Deep Learning and its intersection with Quant Finance  
-📪 boma.axel@gmail.com  
 🏠 Amsterdam, Netherlands
-
-### Contact Me
-https://www.linkedin.com/in/axel-borasino-marques-27ab9aa1/  
-boma.axel@gmail.com
