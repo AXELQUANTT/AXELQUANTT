@@ -10,6 +10,7 @@
 🏋️‍♂️ Ex-Rugby player, fitness enthusiast  
 
 ## Projects/Libraries
+These are just some of the projects I have developed myself in Python.
 - Supervised Learning: Image classification of MNIST dataset (https://github.com/AXELQUANTT/Generic/tree/main/ML_AI/Projects/MNIST_digits_recognizer)  
 - Reinforcement Learning: How to build a custom DDQN agent  (https://github.com/AXELQUANTT/Generic/blob/main/ML_AI/Algos/ReinforcementLearning/agents.py)
 - Reinforcement Learning: Solving Cartpole-v0 environment with custom DDQN agent (https://github.com/AXELQUANTT/Generic/tree/main/ML_AI/Projects/Cartpole)  
