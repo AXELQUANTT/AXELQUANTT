@@ -12,10 +12,10 @@
 ## Projects/Libraries
 These are just some of the projects I have developed myself in Python.
 
-**Supervised Learning**
+**Supervised Learning**  
 - Supervised Learning: Image classification of MNIST dataset (https://github.com/AXELQUANTT/Generic/tree/main/ML_AI/Projects/MNIST_digits_recognizer)
 
-**Reinforcement Learning**
+**Reinforcement Learning**  
 Find documentation for the following two projects in https://github.com/AXELQUANTT/Generic/tree/main/ML_AI/Algos/ReinforcementLearning 
 - Reinforcement Learning: How to build a custom DDQN agent  (https://github.com/AXELQUANTT/Generic/blob/main/ML_AI/Algos/ReinforcementLearning/agents.py)  
 - Reinforcement Learning: How to build a custom gym environment for optimal trade execution  (https://github.com/AXELQUANTT/Generic/blob/main/ML_AI/Algos/ReinforcementLearning/environments.py)
