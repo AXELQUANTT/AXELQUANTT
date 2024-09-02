@@ -12,7 +12,7 @@
 ## Projects/Libraries
 These are just some of the projects I have developed myself in Python.
 
-** Data Wrangling/SQL Extraction **
+**Data Wrangling/SQL Extraction**
 - Credit risk data: Filling gaps in credit risk scores (https://github.com/AXELQUANTT/Generic/tree/main/ML_AI/Projects/CRM)  
 
 **Supervised Learning**  
